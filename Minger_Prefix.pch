@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'Minger' target in the 'Minger' project
+//
+#import "ZBarSDK.h"
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	// ADD: import barcode reader APIs
+	
+#endif
