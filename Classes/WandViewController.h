@@ -1,6 +1,6 @@
 //
-//  MingerViewController.h
-//  Minger
+//  WandViewController.h
+//  Wand
 //
 //  Created by icarvell on 1/17/12.
 //  Copyright 2012 ThoughtWorks. All rights reserved.
@@ -13,7 +13,7 @@
 #import "../AFNetworking/AFHTTPClient.h"
 #import <AudioToolbox/AudioServices.h>
 
-@interface MingerViewController : UIViewController <ZBarReaderDelegate, UIAccelerometerDelegate, NSXMLParserDelegate>
+@interface WandViewController : UIViewController <ZBarReaderDelegate, UIAccelerometerDelegate, NSXMLParserDelegate>
 {
     UIImageView *resultImage;
     UITextView *resultText;

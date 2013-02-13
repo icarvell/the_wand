@@ -1,15 +1,15 @@
 //
-//  MingerAppDelegate.m
-//  Minger
+//  WandAppDelegate.m
+//  Wand
 //
 //  Created by icarvell on 1/17/12.
 //  Copyright 2012 ThoughtWorks. All rights reserved.
 //
 
-#import "MingerAppDelegate.h"
-#import "MingerViewController.h"
+#import "WandAppDelegate.h"
+#import "WandViewController.h"
 
-@implementation MingerAppDelegate
+@implementation WandAppDelegate
 
 @synthesize window;
 @synthesize viewController;
